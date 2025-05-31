@@ -12,9 +12,9 @@ OAuth2 + JWT (python-jose) — авторизация и аутентифика�
 Uvicorn — ASGI-сервер для запуска FastAPI
 
 🚀 Как запустить проект локально
-1. Клонируй репозиторий
-git clone https://github.com/твоя_ссылка_на_репозиторий.git
-cd имя_проекта
+Клонируй репозиторий:
+git clone https://github.com/Ertannic/PythonBack.git
+cd PythonBack
 2. Создай и активируй виртуальное окружение
 python -m venv venv
 source venv/bin/activate  # на Windows: venv\Scripts\activate
